@@ -1,0 +1,4 @@
+cmus
+ranger
+cmon
+sl
